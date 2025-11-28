@@ -8,8 +8,8 @@ Ce dépôt contient les fichiers nécessaires pour la prédiction des résultats
 
 - Le dossier `data` contient toutes les données utilisées pour le projet.
 - un fichier notebook `projet` regroupant les méthodes de Machine Learning.
-- le rapport final `rapport` expliquant les démarches utilisé en détails
+- le rapport final `rapport` expliquant les démarches utilisé en détails.
 
 ## Dépendances
 
-- Le fichier `requirements.txt` contient toutes les dépendances nécessaires pour exécuter les trois modèles.
+- Le fichier `requirements.txt` contient toutes les dépendances nécessaires pour exécuter les modèles.
